@@ -19,5 +19,5 @@ if()//complete the missing part to check the condition
 	{
 		cout<<"person is not eligible for voting";
 	}
-	return 0;
+	return 0 //correct the output
 }
