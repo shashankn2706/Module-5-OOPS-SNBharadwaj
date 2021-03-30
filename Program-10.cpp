@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 double x = 10.25,   ;//complete the declaration
-result =; //use the function with gives us the square root
-cout << "Square root of " << x << " is " << res;
+res =; //use the function with gives us the square root
+cout << res;
 return 0;
 }
