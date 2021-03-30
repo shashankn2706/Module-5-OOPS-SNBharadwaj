@@ -1,7 +1,7 @@
 //Find the missing parts in the given C++ program to check person is eligible to vote or not
 
 //Expected input and output
-//Input: Enter the age: 18
+//Input: 18
 //Output: eligible to vote
 
 #include<iostream>
