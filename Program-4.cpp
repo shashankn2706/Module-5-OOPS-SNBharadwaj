@@ -1,8 +1,8 @@
 //Find the missing statement in the given C++ program to find simple interest
 
 //Expected input and output
-//Input: Enter two numbers: 100 10 1 
-//Output: The product of two numbers is 10
+//Input: 100 10 1
+//Output: 10
 
 #include <iostream>
 using namespace std;
