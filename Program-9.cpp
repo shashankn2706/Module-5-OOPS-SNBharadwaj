@@ -1,7 +1,7 @@
 //Find the missing parts of the C++ program to compute remainder
 
 //Expected input and output
-//Input: Enter two numbers: 12 6
+//Input: 12 6
 //Output: 0
 
 #include <iostream>
