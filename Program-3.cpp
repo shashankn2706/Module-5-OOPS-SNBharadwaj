@@ -1,7 +1,7 @@
 //Correct the C++ program to display the number entered by the user
 //Expected input and output
-//Input: Enter the number  8
-//Output: The entered number is 8
+//Input: 8
+//Output: 8
 
 #include <iostream>
 //using namespace std;
