@@ -1,8 +1,7 @@
 //Find the missing in the given C++ program which computes the area of a rectangle.
 //Expected input & output:
-//Enter the length of rectangle 4
-//Enter the breadth of rectangle 8
-//Area of rectangle 32
+//Input: 4 8
+//Output: 32
 
 #include <iostream>
 using namespace std;
