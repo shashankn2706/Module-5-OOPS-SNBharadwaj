@@ -1,7 +1,7 @@
 //Correct the C++ to find the sum of first n numbers
 
 //Expected input and output
-//Input: Enter a positive integer: 5
+//Input: 5
 //Output: 15
 
 #include <iostream>
