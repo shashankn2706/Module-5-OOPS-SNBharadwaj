@@ -1,8 +1,8 @@
 //Find the missing in the given C++ program to add two integer numbers.
 
 //Expected input and output
-//Input: Enter two numbers: 2 3
-//Output: The sum of two numbers is 5
+//Input: 2 3
+//Output: 5
 
 #include <iostream>
 using namespace std;
